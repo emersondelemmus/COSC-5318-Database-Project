@@ -12,7 +12,7 @@ import java.sql.*;
 public class Connection {
     public static void main(String[] argv) 
     {
-        Connection conn = null;
+     /*   Connection conn = null;
         
         try {
             conn = (Connection) DriverManager.getConnection("jdbc:mysql://localhost:3306/Connection", "root", "1234");
@@ -24,5 +24,6 @@ public class Connection {
         {
             System.out.println("not connected to database");
         }
+        */
     }
 }
