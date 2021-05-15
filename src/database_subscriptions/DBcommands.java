@@ -6,10 +6,7 @@
 package database_subscriptions;
 import java.sql.*;
 
-/**
- *
- * @author brendanmcantosh
- */
+
 public class DBcommands {
     
     /* getConn will be called whenever a statement is used */
